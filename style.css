@@ -1,0 +1,28 @@
+
+.ota{
+   border: 5px solid;
+   height: 520px;
+   width: 520px;
+   display: flex;
+   flex-wrap: wrap;
+}
+.gray{
+    background-color: gray;
+}
+.cell{
+ height: 65px; 
+ width: 65px;  
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 45px;
+}
+body{
+   height: 100vh;
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+}
+
+
